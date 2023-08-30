@@ -25,3 +25,14 @@ Kibi * 2^30 = Tebi
 * Differential Backup
     - Das Backup beinhaltet alle Aenderungen seit dem letzten Full Backup
     - In regelmaessigen Abstaenden wird ein zusaetzliches Backup gemacht
+  
+
+* On-Premise Backup
+    - In-House Backup
+* Off-Site Backup
+    - Out-House Backup
+* Cloud Backup
+    - Backup wo auch immer, erreichbar ueber ein Internet
+
+* Oft auf Magnetbändern:
+    - Vorteil: Manipulation nicht ohne weiteres möglich
