@@ -6,9 +6,22 @@ Kibi * 2^10 = Mebi
 
 Kibi * 2^30 = Tebi
 
-##### RAID
+#### RAID
 * Datastryping
     - Daten werden nicht auf die erste, wenn sie voll ist auf die zweite Festplatte geladen,  
     sondern in Datenblöcken direkt auf die verschiedenen Festplatten verteilt
 * Parity/Parität
 
+### Backup
+* Unterschied zu RAID 1:  
+    System ("Frontend") erkennt 2 verschiedene Speicher, waehrend ein RAID als ganzes erkannt wird
+
+##### Strategien
+* Full Backup
+    - Kompletter Datenbestand wird gesichert
+* Incremental Backup
+    - Das Backup beinhaltet alle Aenderungen seit dem letzten Backup einer Art
+    - In regelmaessigen Abstaenden wird ein zusaetzliches, sehr kleines Backup gemacht
+* Differential Backup
+    - Das Backup beinhaltet alle Aenderungen seit dem letzten Full Backup
+    - In regelmaessigen Abstaenden wird ein zusaetzliches Backup gemacht
