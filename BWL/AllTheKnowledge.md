@@ -48,6 +48,26 @@ ________________________
 * Auch AIDCA (Confidence/Vertrauen)
 
 ________________________
+
+### Marketing
+* Kommunikationspolitik
+    - Werbung
+        - Messen, Influencer, Tag der offenen Tuer
+    - Kundenzufriedenheit
+    - Zielgruppe
+    - Reichweite
+    - Partnerschaften
+* Preispolitik
+    - Angebote, Rabatte
+    - Konkurrenz
+    - Anpassung an konjunktionelle Lage
+* Produkt- & Sortimentspolitik
+    - Gestaltung
+    - Nachfrage
+    - Konkurrenz
+* Distributionspolitik
+
+________________________
 ________________________
 
 ## Versicherungen und Anlagen
