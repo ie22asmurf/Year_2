@@ -12,11 +12,14 @@ Kibi * 2^30 = Tebi
     sondern in Datenblöcken direkt auf die verschiedenen Festplatten verteilt
 * Parity/Parität
 
-### Backup
+____________
+____________
+
+## Backup
 * Unterschied zu RAID 1:  
     System ("Frontend") erkennt 2 verschiedene Speicher, waehrend ein RAID als ganzes erkannt wird
 
-##### Strategien
+### Strategien
 * Full Backup
     - Kompletter Datenbestand wird gesichert
 * Incremental Backup
@@ -33,6 +36,19 @@ Kibi * 2^30 = Tebi
     - Out-House Backup
 * Cloud Backup
     - Backup wo auch immer, erreichbar ueber ein Internet
-
 * Oft auf Magnetbändern:
     - Vorteil: Manipulation nicht ohne weiteres möglich
+
+### Technologien
+Unterscheiden sich abhängig vom Betriebssystem
+
+#### Microsoft
+Unter Microsoft wird ein __Archivbit__ als Attribut einer Datei festgelegt. Daran erkennt die Backup-Software, ob sich die Datei seit dem letzten Backup verändert hat.
+
+#### Unix
+Unter Unix wird der __Timestamp__ der Datei verglichen. Für Microsoft-Dateien gibt es Workarounds, beispielsweise das Executable-Bit (xbit) anstelle des Archivbits
+
+#### Snapshots
+* Kein richtiges Backup
+* Nützlich bei VMs
+* Aktueller Zustand eines Systems wird kopiert, ist nicht ohne weiteres auf anderes System übertragbar -> Kein Backup
