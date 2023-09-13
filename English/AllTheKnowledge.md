@@ -30,6 +30,7 @@ ______________________
 
 ## Politeness Rules
 * Introduce the Visitor to the Boss first! It shows respect, informating the Boss is more important.
+* Make sure to spell names right
 ______________________
 ### Writing Emails
 

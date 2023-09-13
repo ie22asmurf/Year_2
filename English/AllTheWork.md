@@ -36,6 +36,8 @@
 8. workmates / coworkers, collegues
 9. quite / fairly
 
+__________________
+
 
 ## 30_08_2023
 ### Listening
@@ -69,3 +71,40 @@
 | IT | maintains | the computer network |
 | Quality Control | checks | the products are not damaged |
 
+
+
+## 2023_09_06
+### Listening
+Notes:
+* 15 secs: Sandwich, Espresso, Send a text, Charge a Bus
+* 600 Kw in 15s
+* No space wasted for passengers cuz large batteries
+* Saves up to thousand tons CO2 every year
+
+1. Diesel
+2. Geneva in Switzerland
+3. The company which developed those busses is called "ABB"
+4. On top of the bus: Doesn't use space which can be used for passengers.
+5. 600 kilowatts are charged in 15 seconds
+6. It is talked about a charge at bus stops, so probably the range isn't that big with one charge. But multiple charges will care for that.
+7. No overhead lines on the roots are required, which could be difficult to apply in the complex infrastructure of a city.
+8. It could be spreaded worldwide
+9. Up to thousand tons of CO2 could be saved every year with this technology.
+
+
+### Classwork (9-10)
+
+Subject: Purchasing New Hardware
+
+Dear Sir or Madam,
+
+my small office is still using pretty old hardware
+(5 Computers, running on WindowsXP), and we would like to invest in an upgrade.
+We require new ones with a modern OS which enables us to link them, so every employee is able to work at any Computer.
+Furthermore, we would need a delivery and installation from you at least in the next 5 to 6 weeks.
+
+If you are able to meet our requirements, I would be very happy to hear about your terms of payment to fulfill this offer.
+
+Kind regards
+
+Tom Dameris

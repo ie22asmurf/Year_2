@@ -52,3 +52,25 @@ Unter Unix wird der __Timestamp__ der Datei verglichen. Für Microsoft-Dateien g
 * Kein richtiges Backup
 * Nützlich bei VMs
 * Aktueller Zustand eines Systems wird kopiert, ist nicht ohne weiteres auf anderes System übertragbar -> Kein Backup
+
+
+## Vorsorge Stromausfall
+#### USV
+<!-- Muss wahrscheinlich ueberarbeitet werden, hatte nen Kater -->
+Unterbrechungsfreie Stromversorgung
+- Soll Systeme ueber einen gewissen Zeitraum (Minuten bis Stunden) mit Strom abdecken, beispielsweise ueber einen zusaetzlichen Generator
+    * Systeme muessen nicht zwingend heruntergefahren werden, crashen erstmal nicht und sind arbeitsfaehig
+- Auch Vorteile wie Ueberspannungsschutz uvm
+
+Nach Norm EN 62040
+| | |
+|---------|-------|
+| Klasse 1 | VFI (Voltage and Frequency Independent) |
+| Klasse 2 | VI (Voltage Independent) |
+| Klasse 3 | VFD (Voltage and Frequency Dependent) |
+
+
+
+#### Füsik
+- Aus den zwei Anschluessen der Steckdose kommen Wechselspannungen (Sinusförmig, gegeneinander um eine halbe Phase versetzt)
+    * Durch diese zwei Wechselspannungen wird zu einer Gleichspannung transformiert
