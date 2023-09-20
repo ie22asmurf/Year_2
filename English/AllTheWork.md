@@ -71,7 +71,7 @@ __________________
 | IT | maintains | the computer network |
 | Quality Control | checks | the products are not damaged |
 
-
+______________
 
 ## 2023_09_06
 ### Listening
@@ -98,13 +98,38 @@ Subject: Purchasing New Hardware
 
 Dear Sir or Madam,
 
-my small office is still using pretty old hardware
-(5 Computers, running on WindowsXP), and we would like to invest in an upgrade.
+our small company Blue Sky is still using pretty old hardware
+(5 Computers running on WindowsXP), and we would like to invest in an upgrade.
 We require new ones with a modern OS which enables us to link them, so every employee is able to work at any Computer.
 Furthermore, we would need a delivery and installation from you at least in the next 5 to 6 weeks.
+Since are no power users, a capability of common tasks like editing documents would be great.
 
-If you are able to meet our requirements, I would be very happy to hear about your terms of payment to fulfill this offer.
+I am looking forward to hear from you, and would be very happy to make business with your company.
 
 Kind regards
 
 Tom Dameris
+~110 words
+
+______________
+
+## 2023_09_13
+### Listening Test: Giving advice
+1. Why does Hardy want to talk to Roger?
+    Because he is nervous about his presentation and Roger is pretty experienced on those situations.
+
+2. What did Roger use to fiddle with and what does he now do not to fiddle?
+    He used his tie, nowadays he holds his index cards. Because he has to focus on them, he can't play around.
+
+3. Give two examples of how gestures can support a presentation.
+    Leading the view of the audience and underline important words.
+
+4. Explain the small misunderstanding concerning a break for a cigarette.
+    While Roger is talking about short breaks in Hardy's speech, like pauses, Hardy thinks he means regular breaks to go outside.
+
+5. What is the first rule when you give a presentation or a speech, according to Roger?
+    Make sure to speak loudly and clearly.
+
+6. What does he say about the language?
+    Many filling words should be avoided.
+
