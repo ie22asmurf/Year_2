@@ -14,11 +14,18 @@ Hardware->Umgebung: beeinflusst
 ```
 
 ## Grundlagen Strom
+W = I/U
+W = Q*U
+I = Q/t
+P = U*I
+P = W/t
+U = P/Q
+W/Q = I/W
 
 Spannung:
 - Beeinflusst elektrischen Strom
 - Druck auf Ladungsträger
-- Wird in Volt gemessen
+- Wird in Volt angegeben
 - Formelzeichen U
 
 Strom:
@@ -27,4 +34,4 @@ Strom:
 - Formelzeichen I
 
 Ladungsträger:
-Atome die zu viele oder zu wenige Elektronen haben sind geladen. Elektronen sind dabei die Ladungsträger
+- Atome die zu viele oder zu wenige Elektronen haben sind geladen. Elektronen sind dabei die Ladungsträger

@@ -74,3 +74,7 @@ Nach Norm EN 62040
 #### Füsik
 - Aus den zwei Anschluessen der Steckdose kommen Wechselspannungen (Sinusförmig, gegeneinander um eine halbe Phase versetzt)
     * Durch diese zwei Wechselspannungen wird zu einer Gleichspannung transformiert
+
+
+### Strom
+
