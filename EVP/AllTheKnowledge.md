@@ -76,5 +76,12 @@ Nach Norm EN 62040
     * Durch diese zwei Wechselspannungen wird zu einer Gleichspannung transformiert
 
 
-### Strom
 
+
+_____________________________
+
+## Netzwerke
+### DHCP
+### DORA
+Discover    | Offer     | Response  | Aknowledge
+Client      | Server    | Client    | Server

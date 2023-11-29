@@ -82,3 +82,16 @@ ________________________
 ### Riesterrente
 * Man muss 4% seines eigenen Bruttoeinkommens einzahlen um die Unterstuetzung vom Staat zu erhalten
 * Wohnriester: Irgendwas mit eigenem Haus, wenn das verkauft wird wird auch Staatsunterstützung wieder zurückgezogen
+
+
+## Buchhaltung
+
+- Finanzberichte sind von Interesse fuer Finanzamt | Glaeubiger | Aktionäre
+
+#### Listen
+1. Einzelkosten
+Kosten koennen genau dem Produkt zugeordnet werden  
+Bsp: Fuer diesen Autoverkauf (Produkt) ist ein Elektromotor verbaut worden, der so und so viel Kosten verursacht hat
+2. Gemeinschaftskosten
+Kosten sind ueber mehrere Produkte/Einnahmequellen verteilt  
+Bsp: Die IDELizenz kostet 200€, und wird für viele Produkte verwendet

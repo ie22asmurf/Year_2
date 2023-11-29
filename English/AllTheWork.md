@@ -133,3 +133,37 @@ ______________
 6. What does he say about the language?
     Many filling words should be avoided.
 
+## 2023_11_22
+### Listening Test: Giving Advice 1
+1. Where do Pamela and Wolfgang meet Julia?
+At the company canteen.
+2. What do they want advice about?
+A presentation for the marketing department.
+3. Why do they ask Julia?
+Because Pam says she's an expert on presentations.
+4. Who will give the actual presentation and why?
+Pam will, because her english is better.
+5. What will the other person do?
+Giving technical advise/answering the listener's questions.
+6. What will Wolfgang wear on the day of the presentation?
+A black suit.
+7. What will Pamela wear?
+A gray suit.
+8. When and for which audience will the presentation be made?
+In 8 days, for the marketing department.
+
+
+### Making a presentation
+1.
+2. c.
+3. 
+4. i.
+5. f.
+6. b.
+7. h.
+8. a.
+9. e.
+
+
+
+
