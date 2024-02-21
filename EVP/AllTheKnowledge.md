@@ -108,7 +108,7 @@ DHCP verwendet normalerweise Broadcast-Nachrichten für die IP-Konfiguration. In
 Insgesamt ermöglicht der Relay-Agent eine effiziente und reibungslose IP-Adresszuweisung in Netzwerken mit mehreren Subnetzen, indem er DHCP-Anforderungen übermittelt und die Antworten an die entsprechenden Clients zurückleitet.
 
 ### VLAN
-Natürlich, gerne! Ein VLAN (Virtual Local Area Network) ist eine Technologie, die es ermöglicht, ein physisches Netzwerk in mehrere virtuelle Netzwerke zu segmentieren. Diese Segmentierung erfolgt auf der Data-Link-Schicht (Layer 2) des OSI-Modells. Hier sind die grundlegenden Punkte, die VLANs charakterisieren:
+Ein VLAN (Virtual Local Area Network) ist eine Technologie, die es ermöglicht, ein physisches Netzwerk in mehrere virtuelle Netzwerke zu segmentieren. Diese Segmentierung erfolgt auf der Data-Link-Schicht (Layer 2) des OSI-Modells. Hier sind die grundlegenden Punkte, die VLANs charakterisieren:
 
 1. Logische Gruppierung:
 VLANs ermöglichen die logische Gruppierung von Geräten in einem Netzwerk, unabhängig von ihrer physischen Position. Geräte, die sich in verschiedenen Teilen des Netzwerks befinden, können denselben VLAN-Zugehörigkeitsstatus haben.
@@ -133,17 +133,22 @@ In Netzwerken bezieht sich eine "Trunk-Verbindung" auf eine Verbindung zwischen 
 
 1. Übertragung von mehreren VLANs:
 Eine Trunk-Verbindung ermöglicht die Übertragung von Datenverkehr mehrerer VLANs über dieselbe physische Verbindung. Das ist wichtig, wenn die Verbindung zwischen zwei Switches, Routern oder anderen Netzwerkgeräten den Datenverkehr für mehrere logische Gruppen (VLANs) übertragen soll.
-
 2. Tagging der Datenpakete:
 Damit die Trunk-Verbindung den Verkehr mehrerer VLANs erfolgreich übertragen kann, werden den Datenpaketen Tags hinzugefügt. Ein Tag ist eine Kennzeichnung im Datenpaket, die angibt, zu welchem VLAN das Paket gehört. Dieses Tagging ermöglicht es den Geräten am anderen Ende der Trunk-Verbindung, die Daten den entsprechenden VLANs zuzuordnen.
-
 3. Verwendung von IEEE 802.1Q:
 Der Standard, der am häufigsten für das Tagging von VLAN-Informationen in Trunk-Verbindungen verwendet wird, ist IEEE 802.1Q. Dieser Standard definiert, wie die VLAN-Informationen in den Ethernet-Frames eingebettet werden.
-
 4. Effiziente Nutzung der Bandbreite:
 Durch die Kombination des Datenverkehrs mehrerer VLANs auf einer einzigen physischen Verbindung ermöglicht eine Trunk-Verbindung eine effizientere Nutzung der Netzwerkbandbreite. Das ist besonders wichtig in Umgebungen mit vielen VLANs und großem Datenverkehr.
-
 5. Konfiguration an den Endpunkten:
 Beide Enden der Trunk-Verbindung müssen so konfiguriert sein, dass sie die gleichen VLAN-Informationen verstehen. Das schließt die richtige Konfiguration von Tagging und die Definition der erlaubten VLANs auf der Verbindung ein.
 
 Zusammengefasst ermöglichen Trunk-Verbindungen die effiziente Übertragung von Datenverkehr mehrerer VLANs über eine einzelne physische Verbindung, indem sie Tagging-Mechanismen verwenden, um die VLAN-Informationen zu übermitteln. Dies ist besonders wichtig in Netzwerken, in denen die Segmentierung des Datenverkehrs nach logischen Gruppen (VLANs) erforderlich ist.
+
+
+### Frames
+Siehe TCP/IP:
+über den Frame wird die Ziel-Macadresse verwendet.
+Wenn alle Bits der MAC auf 1 sind, ist es ein Broadcast im gleichen LAN (bzw VLAN)
+
+
+
