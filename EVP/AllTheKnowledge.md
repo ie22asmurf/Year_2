@@ -151,4 +151,14 @@ Siehe TCP/IP:
 Wenn alle Bits der MAC auf 1 sind, ist es ein Broadcast im gleichen LAN (bzw VLAN)
 
 
+### Abgrenzung zwischen Abteilungsnetzen
+- Nutzen von Switches:
+    - Auf OSI-2
+    - 3 ist möglich, aber quatsch:
+        - Jede Abteilung bräuchte eigenen Router
+    - Auf der Switchlayer kann man VLANs einrichten
+    - Bei den Trunk-Verbindungen werden die Frameheader gekennzeichnet, dies nutzen VLANs um die Pakete zuzuordnen
 
+    - Wenn der Switch den Frame auf den Trunk schaltet, wird der Frame getaggt (Tag enthält Informationen über das Urpsrungs-VLAN)
+    - Der empfangende Switch braucht diesen Tag (Auch VLAN-ID), um Berechtigungen und Antwortadresse zuordnen zu können
+        - Nur notwendig wenn man Trunkverbindungen nutzt!

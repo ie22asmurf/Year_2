@@ -35,3 +35,6 @@ Strom:
 
 Ladungsträger:
 - Atome die zu viele oder zu wenige Elektronen haben sind geladen. Elektronen sind dabei die Ladungsträger
+
+
+
