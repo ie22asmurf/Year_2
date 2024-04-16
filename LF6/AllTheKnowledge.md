@@ -10,7 +10,7 @@ Leistungsverzeichnis
 Verantwortlichkeiten
 ____________________________________________________
 ### Service Level Agreement (SLA)
-* Vereinbarung zwischen Dienstleister und Kunde
+* Teil vom Servicevertrag
 1. Firmeninterne SLAs
 2. Firma - Kunde SLAs
 3. Firma - Lieferanten SLAs

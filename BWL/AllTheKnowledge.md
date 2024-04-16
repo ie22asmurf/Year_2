@@ -95,3 +95,10 @@ Bsp: Fuer diesen Autoverkauf (Produkt) ist ein Elektromotor verbaut worden, der 
 2. Gemeinschaftskosten
 Kosten sind ueber mehrere Produkte/Einnahmequellen verteilt  
 Bsp: Die IDELizenz kostet 200€, und wird für viele Produkte verwendet
+
+
+## Kredite
+Verschuldungsproblematik
+#### Insolvenz
+Bei Überschuldung kann Insolvenz angemeldet werden.
+Dabei wird Staat zum Haushaltschef und bestimmt viel über das zur Verfügung stehende Geld: Welche Ausgaben sind erlaubt, welche nicht?
